@@ -1,1 +1,1 @@
-# ChesSLMsolver
+# ChesSLMaster
