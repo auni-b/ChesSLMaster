@@ -1,0 +1,16 @@
+[project]
+name = "ChesSLMaster"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "vlad", email = "vlmr.mko@gmail.com"},
+    {name = "auni" },
+]
+dependencies = ["llama-index-core>=0.12.47"]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
